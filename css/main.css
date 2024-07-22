@@ -1,0 +1,15 @@
+.main{
+   text-align: center;
+    background-color:lavender;
+    
+}
+.emp{
+    
+    float: left;
+    width: 33.3%;
+    background-color:lightgrey;
+    
+}
+.clearfix{
+    clear: left;
+}
